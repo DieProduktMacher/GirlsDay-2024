@@ -1,0 +1,16 @@
+body {
+  background-color: white
+}
+
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+p {
+  margin-left: 20px;
+}
+
+.activity-item {
+  background-color: rgb(19, 139, 190);
+  color: white;
+}
