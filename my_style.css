@@ -14,3 +14,8 @@ p {
   background-color: rgb(19, 139, 190);
   color: white;
 }
+
+.photo {
+  width: 100%;
+  height: auto;
+}
